@@ -1,0 +1,8 @@
+/data
+*.csv
+src/hycom/.ipynb_checkpoints
+src/gee/.ipynb_checkpoints
+src/cleaning/.ipynb_checkpoints
+results/.ipynb_checkpoints
+doc/equinox/.ipynb_checkpoints
+doc/equinox/papers
